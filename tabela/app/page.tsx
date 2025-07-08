@@ -5,8 +5,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 
 export default function HomePage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-900">
-      {/* Hero Section */}
+    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-900"
       <div className="relative overflow-hidden">
         <div className="max-w-6xl mx-auto px-4 py-20">
           <div className="text-center mb-16">
