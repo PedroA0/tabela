@@ -17,7 +17,7 @@ export default function HomePage() {
               Sua plataforma completa para orçamentos de tuning automotivo. Calcule o valor dos seus sonhos automotivos
               com precisão e facilidade.
             </p>
-            <Link href="/calculator">
+            <Link href="/preços">
               <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white px-8 py-4 text-lg font-semibold">
                 🧮 Começar Orçamento
                 <ArrowRight className="ml-2 h-5 w-5" />
